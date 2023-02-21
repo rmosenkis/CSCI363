@@ -1,6 +1,6 @@
 Ryan Mosenkis and Chris Stankus
 
-Our protocol sends 5 packets at a time, waits for acknowledgements from those packets, then sends another 5 packets, and repeates. 
+Our protocol sends 5 packets at a time, waits for acknowledgements from those packets, then sends another 5 packets, and repeats. 
 It ignores duplicates and out of order chunks through the use of checks in the algorithm
 
 
