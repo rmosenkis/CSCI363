@@ -1,0 +1,69 @@
+Location 1: Quest House
+TCP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 103.73ms
+100 packets per second: RTT = 11.47ms
+900 packets per second: RTT = 3.91ms
+Uniform:
+10 packets per second: RTT = 103.13ms
+100 packets per second: RTT = 11.51ms
+900 packets per second: RTT = 4.13ms
+
+UDP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 103.41ms
+100 packets per second: RTT = 11.30ms
+900 packets per second: RTT = 3.85ms
+Uniform:
+10 packets per second: RTT = 103.11ms
+100 packets per second: RTT = 11.49ms
+900 packets per second: RTT = 3.89ms
+
+
+Location 2: Holmes Hall
+TCP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 103.67ms
+100 packets per second: RTT = 11.41ms
+900 packets per second: RTT = 3.85ms
+Uniform:
+10 packets per second: RTT = 103.05ms
+100 packets per second: RTT = 11.50ms
+900 packets per second: RTT = 4.11ms
+
+UDP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 103.32ms
+100 packets per second: RTT = 11.20ms
+900 packets per second: RTT = 3.82ms
+Uniform:
+10 packets per second: RTT = 103.01ms
+100 packets per second: RTT = 11.44ms
+900 packets per second: RTT = 3.86ms
+
+Location 3: Library
+TCP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 104.08ms
+100 packets per second: RTT = 11.53ms
+900 packets per second: RTT = 3.96ms
+Uniform:
+10 packets per second: RTT = 103.15ms
+100 packets per second: RTT = 11.54ms
+900 packets per second: RTT = 4.20ms
+
+UDP:
+Duration 5 Seconds
+Burst:
+10 packets per second: RTT = 103.50ms
+100 packets per second: RTT = 11.34ms
+900 packets per second: RTT = 3.88ms
+Uniform:
+10 packets per second: RTT = 103.14ms
+100 packets per second: RTT = 11.52ms
+900 packets per second: RTT = 3.94ms
